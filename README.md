@@ -4,12 +4,14 @@
 https://twitter.com/pedromvpg/status/1553123963139756032
 
 ## Why work on this?
-* Advance the understanding of bitcoin
+* Help build a powerful native mobile Bitcoin signer management application 
+* Contribute towards the integration, development and enhancement of Bitcoin UX design
+* Unlock coin insights via integrated onchain (privacy/provenance/economic) analyses and corresponding data visualisation to help inform, encourage and automate better Bitcoin usage best-pratices
+* Advance Bitcoin understanding
 * Test market demand for bitcoin centric applications
 * Propagate open-source ethos
-* Gain reputation in the bitcoin network
-* Participate in bitcoin history 
-* Potential for donations and grants
+* Build and support Bitcoin and related FOSS projects
+* Participate in Bitcoin history
 
 ### Ethos/priorities/design philosophy
 * Bitcoin only
@@ -67,3 +69,5 @@ https://twitter.com/pedromvpg/status/1553123963139756032
 * [BitFeed] (https://github.com/bitfeed-project/bitfeed) - beautiful, psychedelic block/transaction/timechain visualisation
 * [Mempool.space] (https://github.com/mempool/mempool) - beautiful block explorer and Bitcoin data visualisations
 * [Zeus] (https://github.com/ZeusLN/zeus) - pretty, increasingly powerful remote LN node management app
+
+
