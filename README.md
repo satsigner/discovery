@@ -34,8 +34,9 @@ https://twitter.com/pedromvpg/status/1553123963139756032
     * Spend bitcoin -> Consume UTXO
     * Bitcoin balance -> Total spendable sats
     * Wallet -> Signer
+    * Private key -> Account
     * Address -> Invoice
-    * Transaction -> ?
+    * Transaction -> Message
     * (...)
 * Bitcoin specific UX patterns
 * Bitcoin technology education
@@ -54,6 +55,7 @@ https://twitter.com/pedromvpg/status/1553123963139756032
 ## Stack
 
 ### Possible dependencies
+
 #### Backend
 * [Bitcoin Development Kit] (https://github.com/bitcoindevkit) via [RN-BDK] (https://github.com/LtbLightning/bdk-rn) - becoming reference Bitcoin dev tools
 * [Electrum Server] (https://github.com/spesmilo/electrum-server) - ubiquitous node interface
