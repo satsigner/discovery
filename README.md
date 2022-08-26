@@ -73,3 +73,24 @@ https://twitter.com/pedromvpg/status/1553123963139756032
 * [Zeus] (https://github.com/ZeusLN/zeus) - pretty, increasingly powerful remote LN node management app
 
 
+
+
+## UI
+
+<img width="1521" alt="image" src="https://user-images.githubusercontent.com/807505/186901157-c43ffea1-f38a-443a-b219-8886f67923a9.png">
+
+
+## Concepts
+
+![image](https://user-images.githubusercontent.com/807505/186901328-429c31e4-ad73-4d76-bdaa-3eb4fa201725.png)
+UTXO selection
+
+![image](https://user-images.githubusercontent.com/807505/186901348-0e566668-d056-441b-a692-25677b6da770.png)
+Security
+
+![image](https://user-images.githubusercontent.com/807505/186901366-01739b32-dea9-451a-800f-ab90e77cb1d1.png)
+Verification
+
+![image](https://user-images.githubusercontent.com/807505/186901387-7611d337-79a1-4a93-9ac5-61f60aae0518.png)
+UTXO consumption
+
